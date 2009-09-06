@@ -1,7 +1,0 @@
-E:\SourceCode\CSharpSpider\CSharpSpider\obj\Debug\Spider.exe
-E:\SourceCode\CSharpSpider\CSharpSpider\obj\Debug\Spider.pdb
-E:\SourceCode\CSharpSpider\CSharpSpider\bin\Debug\Spider.exe
-E:\SourceCode\CSharpSpider\CSharpSpider\bin\Debug\Spider.pdb
-E:\SourceCode\CSharpSpider\CSharpSpider\obj\Debug\ResolveAssemblyReference.cache
-E:\SourceCode\CSharpSpider\CSharpSpider\obj\Debug\Spider.SpiderForm.resources
-E:\SourceCode\CSharpSpider\CSharpSpider\obj\Debug\Spider.csproj.GenerateResource.Cache
